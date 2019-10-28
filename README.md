@@ -23,7 +23,9 @@ outputname es el nombre con el cual saldrán las imágnes. Las imágenes salen e
 
 ## Pasos para convertir una página
 
-pdftoppm input.pdf outputname -png -f {page} -singlefile
+```sh
+$ pdftoppm input.pdf outputname -png -f {page} -singlefile
+```
 
 En donde:
 
