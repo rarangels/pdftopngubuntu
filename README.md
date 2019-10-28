@@ -1,4 +1,4 @@
-# pdftopngubuntu
+# PDF To PNG Ubuntu
 Convertir PDF a PNG en Ubuntu
 
 Clonamos el repositorio a nuestro equipo:
